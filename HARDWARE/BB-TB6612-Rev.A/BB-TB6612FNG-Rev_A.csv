@@ -1,0 +1,18 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"";"LOGO_RECYCLEBIN_1";1;"";;;
+2;"";"LOGO_PBFREE";1;"";;;
+3;"";"OLIMEX_LOGO_TB";1;"";;;
+4;"";"LOGO_OPENHARDWARE_8x8";1;"";;;
+5;"R1";"R_0603_5MIL_0R(Board_Mounted)";1;"0R";;;
+6;"CON2";"HN1x5";1;"INB";;;
+7;"CON1";"HN1x5";1;"INA";;;
+8;"CON6";"N1_SMD";1;"BO2";;;
+9;"CON5";"N1_SMD";1;"BO1";;;
+10;"CON8";"N1_SMD";1;"PGND";;;
+11;"CON7";"N1_SMD";1;"VDD";;;
+12;"CON4";"N1_SMD";1;"AO2";;;
+13;"CON3";"N1_SMD";1;"AO1";;;
+14;"Ref**,Ref**,Ref**,Ref**,Ref**,Ref**";"via_09_07";6;"Val**";;;
+15;"MountingHoleShield**,MountingHoleShield**";"Mounting_hole_Shield_3.3mm";2;"Mounting_hole_Shield_3.3mm";;;
+16;"C2,C3,C4";"C_0603_5MIL_DWS";3;"10uF/25V";;;
+17;"U1";"SSOP24";1;"TB6612FNG";;;
